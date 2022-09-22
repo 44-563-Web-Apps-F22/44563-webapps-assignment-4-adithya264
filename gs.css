@@ -65,7 +65,7 @@
   }
   
   .name:hover {
-      color:rgb(255, 47, 0);
+      color:rgb(0, 149, 255);
       background-color:rgba(105, 96, 56, 0.931);
       text-shadow: 4px 4px 4px rgb(208, 200, 119);
       border : 1 px solid black;
